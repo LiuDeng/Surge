@@ -1596,9 +1596,6 @@ IP-CIDR, 221.179.191.0/24, REJECT
 ^(http|https)://coupon.m.jd.com/ https://coupon.m.jd.com/ 302
 ^(http|https)://newcz.m.jd.com/ https://newcz.m.jd.com/ 302
 ^(http|https)://h5.m.jd.com/ https://h5.m.jd.com/ 302
-^(http|https)://taobao.com/ https://m.taobao.com/ 302
-^(http|https)://www.taobao.com/ https://m.taobao.com/ 302
-^(http|https)://m.taobao.com/ https://m.taobao.com/ 302
 ^(http|https)://yes1.feng.com/images http://ogtre5vp0.bkt.clouddn.com/background.png? HEADER
 ^(http|https)://yes1.feng.com/view.php http://ogtre5vp0.bkt.clouddn.com/background.png? HEADER
 URL-MATCH, ^(http|https)://push.feng.com/resource/photo/appimg/launchimage, REJECT
