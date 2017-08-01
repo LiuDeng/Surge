@@ -1285,7 +1285,6 @@ DOMAIN, partner.toutiao.com, REJECT
 DOMAIN, pixel.wp.com, REJECT
 DOMAIN-SUFFIX, pv.alert.autohome.com.cn, REJECT
 DOMAIN-SUFFIX, playnimei.cn, REJECT
-DOMAIN-SUFFIX, pstatp.com, REJECT
 DOMAIN-SUFFIX, pailady.com, REJECT
 DOMAIN, paopao.iqiyi.com, REJECT
 DOMAIN-SUFFIX, pro.cn, REJECT
